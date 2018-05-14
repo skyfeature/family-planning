@@ -72,3 +72,5 @@ Hi there,
 		Click on 'contraception.ipynb' or 'analysis_of_women_data.ipynb'.   
 		View the file as it is.   
 		Start execution from first block by ctrl+enter.   
+  
+I will updated more instruction.  
